@@ -1,0 +1,116 @@
+* {
+    margin-top: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.bc {
+    display: flex;
+
+}
+
+.left {
+    width: 30%;
+}
+
+.right {
+    width: 70%;
+    border-color: 2px solid white;
+    text-align: center;
+}
+
+#ab {
+    background-color: black;
+    padding: 10px;
+    word-spacing: 40px;
+    text-align: center;
+    position: sticky;
+    
+}
+
+a {
+    text-decoration: none;
+    color: red;
+    font-size: large;
+}
+
+#search {
+    margin-top: 8%;
+    margin-left: 65%;
+    width: 30%;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.l1 {
+    display: flex;
+    padding: 20px;
+    background-color: black;
+    color: white;
+    border-bottom: 4px solid white;
+}
+
+.liquor,.snacks {
+    width: 50%;
+}
+
+marquee {
+    color: red;
+    font-size: large;
+    background-color: black;
+    padding: 5px;
+}
+
+#od {
+    width: 100%;
+    height: 75%;
+    margin-left: 0px;
+}
+.whis,.rum,.gin,.beer,.wine{
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+    color: red;
+}
+.w1,.w2,.w3,.w4,.w5{
+    border: 2px solid white;
+    margin-left: 5px;
+    width: 18.73%;
+    padding-bottom: 10px;
+}
+
+.r1,.r2,.r3,.r4,.r5{
+    border: 2px solid white;
+    margin-left: 5px;
+    width: 18.73%;
+    padding-bottom: 10px;
+}
+
+.g1,.g2,.g3,.g4,.g5{
+    border: 2px solid white;
+    margin-left: 5px;
+    width: 18.73%;
+    padding-bottom: 10px;
+}
+
+.b1,.b2,.b3,.b4,.b5{
+    border: 2px solid white;
+    margin-left: 5px;
+    width: 18.73%;
+    padding-bottom: 10px;
+}
+
+.w1,.w2,.w3,.w4,.w5{
+    border: 2px solid white;
+    margin-left: 5px;
+    width: 18.73%;
+    padding-bottom: 10px;
+}
+
+
+
+
+
+.phone{
+    color: aqua;
+}

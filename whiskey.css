@@ -1,0 +1,72 @@
+* {
+    margin-top: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.bc {
+    display: flex;
+
+}
+
+#ab {
+    background-color: black;
+    word-spacing: 40px;
+    text-align: center;
+    position: fixed;
+    border-bottom: 5px solid white;
+   width: 93.5%;
+   padding: 20px;
+
+    
+}
+
+a {
+    text-decoration: none;
+    color: red;
+    font-size: large;
+}
+
+
+.l1 {
+    display: flex;
+    padding: 20px;
+    background-color: black;
+    color: white;
+    border-bottom: 4px solid white;
+}
+
+marquee {
+    margin-top: 4%;
+    color: red;
+    font-size: large;
+    background-color: black;
+    padding: 10px;
+}
+#od{
+    width: 100%;
+    height: 65%;
+    margin-left: 0px;
+   
+}
+.title{
+    background-color: black;
+    margin: 0%;
+}
+.whis{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.w1,.w2,.w3,.w4,.w5,.w6{
+    border: 5px solid white;
+    padding: 20px;
+    text-align: center;
+    color: red;
+    background-color: black;
+    width: 45%;
+}
+button{
+    transform: scale(1.2);
+}
+
